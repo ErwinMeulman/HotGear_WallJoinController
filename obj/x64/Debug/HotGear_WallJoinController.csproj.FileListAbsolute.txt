@@ -1,0 +1,2 @@
+C:\Users\PowerUser\Downloads\HotGear\HotGear_WallJoinController\obj\x64\Debug\HotGear_WallJoinController.csprojResolveAssemblyReference.cache
+C:\Users\PowerUser\Downloads\HotGear\HotGear_WallJoinController\obj\x64\Debug\HotGear_WallJoinController.csproj.CoreCompileInputs.cache
